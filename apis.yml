@@ -1,0 +1,32 @@
+aid: countapi
+name: CountAPI
+description: "Free and simple counting service. You can use it to track page hits and specific events"
+url: https://countapi.xyz
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: CountAPI
+    description: "Free and simple counting service. You can use it to track page hits and specific events"
+    humanURL: https://countapi.xyz
+    baseURL: https://countapi.xyz
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://countapi.xyz
+common:
+  - type: Website
+    url: https://countapi.xyz
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
